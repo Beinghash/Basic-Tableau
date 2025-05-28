@@ -81,7 +81,7 @@ A final **Tableau Story** that walks viewers through the dashboards and key insi
 
 ## 🖼️ Preview
 
-![Dashboard Preview](./your-dashboard-image.png)  
+![Dashboard Preview](Story 1.png)  
 
 ---
 
