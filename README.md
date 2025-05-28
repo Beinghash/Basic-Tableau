@@ -102,11 +102,10 @@ This project is designed to:
 
 ---
 
-## 🌐 Tableau Public Version (Optional)
-
+## 🌐 Tableau Public Version 
 
 
 [🔗 View on Tableau Public]([https://public.tableau.com/your-link](https://public.tableau.com/app/profile/hashir.khan1870/viz/BasicTableau_17482653005110/Story1))
 
-# Let's Connect!!
+ Let's Connect!!
 
