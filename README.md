@@ -75,13 +75,7 @@ Three dashboards combining multiple sheets to present data in an interactive and
 
 ### 📖 Story
 
-A final **Tableau Story** that walks viewers through the dashboards and key insights, tying everything together in a narrative format.
-
----
-
-## 🖼️ Preview
-
-![Dashboard Preview](Story 1.png)  
+A final **Tableau Story** that walks viewers through the dashboards and key insights, tying everything together in a narrative format. 
 
 ---
 
@@ -102,10 +96,12 @@ This project is designed to:
 
 ---
 
-## 🌐 Tableau Public Version 
+## 🌐 Tableau Public Version
 
+You can explore the interactive version of this project on Tableau Public:
 
-[🔗 View on Tableau Public]([https://public.tableau.com/your-link](https://public.tableau.com/app/profile/hashir.khan1870/viz/BasicTableau_17482653005110/Story1))
+[🔗 View on Tableau Public](https://public.tableau.com/app/profile/hashir.khan1870/viz/BasicTableau_17482653005110/Story1)
+
 
  Let's Connect!!
 
